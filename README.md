@@ -1,3 +1,5 @@
+<img src='https://user-images.githubusercontent.com/71898557/232839051-57727a0b-fd90-4cb1-acdc-8eeba3ad54a0.png' width='400' height='140'>
+
 # Sudoku Solver
 
 Sudoku Solver uses HTML, CSS, JavaScript and Backtracking Algorithm to solve any Sudoku puzzle.
